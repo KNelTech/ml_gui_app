@@ -7,7 +7,7 @@ simple machine learning image classifier GUI app for beginners
 
 In this repository you will find how to create a beautiful GUI application that can classify images of animals and vehicles!
 
-credit for creation of the course I followed to learn this:Mariya Sha, https://github.com/MariyaSha
+credit for creation of the course I followed to learn this: Mariya Sha, https://github.com/MariyaSha
 
 followed video <a href="https://youtu.be/h0dglh9elCw" target="_blank">video tutorial</a>.
 
